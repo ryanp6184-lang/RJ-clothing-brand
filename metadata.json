@@ -1,0 +1,6 @@
+{
+  "name": "RJ Clothing",
+  "description": "An exclusive, high-end fashion brand specializing in premium apparel and limited-edition items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
